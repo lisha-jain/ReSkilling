@@ -1,0 +1,12 @@
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.CoreCompileInputs.cache
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb
+D:\Lisha C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.genruntimeconfig.cache
