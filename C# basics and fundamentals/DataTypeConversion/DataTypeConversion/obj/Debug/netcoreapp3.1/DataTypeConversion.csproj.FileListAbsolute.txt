@@ -1,0 +1,12 @@
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\bin\Debug\netcoreapp3.1\DataTypeConversion.exe
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\bin\Debug\netcoreapp3.1\DataTypeConversion.deps.json
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\bin\Debug\netcoreapp3.1\DataTypeConversion.runtimeconfig.json
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\bin\Debug\netcoreapp3.1\DataTypeConversion.runtimeconfig.dev.json
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\bin\Debug\netcoreapp3.1\DataTypeConversion.dll
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\bin\Debug\netcoreapp3.1\DataTypeConversion.pdb
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\obj\Debug\netcoreapp3.1\DataTypeConversion.AssemblyInfoInputs.cache
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\obj\Debug\netcoreapp3.1\DataTypeConversion.AssemblyInfo.cs
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\obj\Debug\netcoreapp3.1\DataTypeConversion.csproj.CoreCompileInputs.cache
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\obj\Debug\netcoreapp3.1\DataTypeConversion.dll
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\obj\Debug\netcoreapp3.1\DataTypeConversion.pdb
+D:\Lisha C#\DataTypeConversion\DataTypeConversion\obj\Debug\netcoreapp3.1\DataTypeConversion.genruntimeconfig.cache
