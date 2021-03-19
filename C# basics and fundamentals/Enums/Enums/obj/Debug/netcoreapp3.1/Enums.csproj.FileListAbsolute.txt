@@ -1,0 +1,13 @@
+D:\Lisha C#\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+D:\Lisha C#\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+D:\Lisha C#\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+D:\Lisha C#\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+D:\Lisha C#\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+D:\Lisha C#\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+D:\Lisha C#\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
