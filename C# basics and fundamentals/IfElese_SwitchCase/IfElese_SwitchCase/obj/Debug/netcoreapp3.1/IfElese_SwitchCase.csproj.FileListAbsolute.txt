@@ -1,0 +1,12 @@
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\bin\Debug\netcoreapp3.1\IfElese_SwitchCase.exe
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\bin\Debug\netcoreapp3.1\IfElese_SwitchCase.deps.json
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\bin\Debug\netcoreapp3.1\IfElese_SwitchCase.runtimeconfig.json
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\bin\Debug\netcoreapp3.1\IfElese_SwitchCase.runtimeconfig.dev.json
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\bin\Debug\netcoreapp3.1\IfElese_SwitchCase.dll
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\bin\Debug\netcoreapp3.1\IfElese_SwitchCase.pdb
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\obj\Debug\netcoreapp3.1\IfElese_SwitchCase.AssemblyInfoInputs.cache
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\obj\Debug\netcoreapp3.1\IfElese_SwitchCase.AssemblyInfo.cs
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\obj\Debug\netcoreapp3.1\IfElese_SwitchCase.csproj.CoreCompileInputs.cache
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\obj\Debug\netcoreapp3.1\IfElese_SwitchCase.dll
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\obj\Debug\netcoreapp3.1\IfElese_SwitchCase.pdb
+D:\Lisha C#\IfElese_SwitchCase\IfElese_SwitchCase\obj\Debug\netcoreapp3.1\IfElese_SwitchCase.genruntimeconfig.cache

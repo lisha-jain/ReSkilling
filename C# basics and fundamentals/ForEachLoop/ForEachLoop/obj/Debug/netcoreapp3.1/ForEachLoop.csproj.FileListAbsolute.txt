@@ -1,0 +1,13 @@
+D:\Lisha C#\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.exe
+D:\Lisha C#\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.deps.json
+D:\Lisha C#\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.json
+D:\Lisha C#\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.dev.json
+D:\Lisha C#\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.dll
+D:\Lisha C#\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.pdb
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csprojAssemblyReference.cache
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfoInputs.cache
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfo.cs
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csproj.CoreCompileInputs.cache
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.dll
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.pdb
+D:\Lisha C#\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.genruntimeconfig.cache

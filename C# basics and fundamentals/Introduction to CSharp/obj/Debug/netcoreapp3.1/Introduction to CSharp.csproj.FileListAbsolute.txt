@@ -1,0 +1,13 @@
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.csprojAssemblyReference.cache
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.AssemblyInfoInputs.cache
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.AssemblyInfo.cs
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.csproj.CoreCompileInputs.cache
+D:\Lisha\Introduction to CSharp\bin\Debug\netcoreapp3.1\Introduction to CSharp.exe
+D:\Lisha\Introduction to CSharp\bin\Debug\netcoreapp3.1\Introduction to CSharp.deps.json
+D:\Lisha\Introduction to CSharp\bin\Debug\netcoreapp3.1\Introduction to CSharp.runtimeconfig.json
+D:\Lisha\Introduction to CSharp\bin\Debug\netcoreapp3.1\Introduction to CSharp.runtimeconfig.dev.json
+D:\Lisha\Introduction to CSharp\bin\Debug\netcoreapp3.1\Introduction to CSharp.dll
+D:\Lisha\Introduction to CSharp\bin\Debug\netcoreapp3.1\Introduction to CSharp.pdb
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.dll
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.pdb
+D:\Lisha\Introduction to CSharp\obj\Debug\netcoreapp3.1\Introduction to CSharp.genruntimeconfig.cache
