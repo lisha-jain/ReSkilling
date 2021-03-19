@@ -1,0 +1,13 @@
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.csprojAssemblyReference.cache
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.AssemblyInfoInputs.cache
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.AssemblyInfo.cs
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.csproj.CoreCompileInputs.cache
+D:\Lisha C#\ArrayList-List\ArrayList-List\bin\Debug\netcoreapp3.1\ArrayList-List.exe
+D:\Lisha C#\ArrayList-List\ArrayList-List\bin\Debug\netcoreapp3.1\ArrayList-List.deps.json
+D:\Lisha C#\ArrayList-List\ArrayList-List\bin\Debug\netcoreapp3.1\ArrayList-List.runtimeconfig.json
+D:\Lisha C#\ArrayList-List\ArrayList-List\bin\Debug\netcoreapp3.1\ArrayList-List.runtimeconfig.dev.json
+D:\Lisha C#\ArrayList-List\ArrayList-List\bin\Debug\netcoreapp3.1\ArrayList-List.dll
+D:\Lisha C#\ArrayList-List\ArrayList-List\bin\Debug\netcoreapp3.1\ArrayList-List.pdb
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.dll
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.pdb
+D:\Lisha C#\ArrayList-List\ArrayList-List\obj\Debug\netcoreapp3.1\ArrayList-List.genruntimeconfig.cache
