@@ -1,0 +1,13 @@
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csprojAssemblyReference.cache
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.CoreCompileInputs.cache
+D:\Lisha C#\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+D:\Lisha C#\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+D:\Lisha C#\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+D:\Lisha C#\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+D:\Lisha C#\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+D:\Lisha C#\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.pdb
+D:\Lisha C#\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.genruntimeconfig.cache
