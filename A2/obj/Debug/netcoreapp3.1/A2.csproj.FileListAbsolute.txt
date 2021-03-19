@@ -1,0 +1,13 @@
+D:\Lisha\A2\bin\Debug\netcoreapp3.1\A2.exe
+D:\Lisha\A2\bin\Debug\netcoreapp3.1\A2.deps.json
+D:\Lisha\A2\bin\Debug\netcoreapp3.1\A2.runtimeconfig.json
+D:\Lisha\A2\bin\Debug\netcoreapp3.1\A2.runtimeconfig.dev.json
+D:\Lisha\A2\bin\Debug\netcoreapp3.1\A2.dll
+D:\Lisha\A2\bin\Debug\netcoreapp3.1\A2.pdb
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.csprojAssemblyReference.cache
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.AssemblyInfoInputs.cache
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.AssemblyInfo.cs
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.csproj.CoreCompileInputs.cache
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.dll
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.pdb
+D:\Lisha\A2\obj\Debug\netcoreapp3.1\A2.genruntimeconfig.cache
