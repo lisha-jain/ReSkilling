@@ -1,0 +1,13 @@
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csprojAssemblyReference.cache
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfoInputs.cache
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfo.cs
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\Lisha C#\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.exe
+D:\Lisha C#\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.deps.json
+D:\Lisha C#\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.json
+D:\Lisha C#\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.dev.json
+D:\Lisha C#\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.dll
+D:\Lisha C#\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.pdb
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.dll
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.pdb
+D:\Lisha C#\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.genruntimeconfig.cache
