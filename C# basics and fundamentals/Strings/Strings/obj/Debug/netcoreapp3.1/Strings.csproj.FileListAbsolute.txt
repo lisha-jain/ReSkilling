@@ -1,0 +1,12 @@
+D:\Lisha C#\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+D:\Lisha C#\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+D:\Lisha C#\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+D:\Lisha C#\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+D:\Lisha C#\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+D:\Lisha C#\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+D:\Lisha C#\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+D:\Lisha C#\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+D:\Lisha C#\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+D:\Lisha C#\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+D:\Lisha C#\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+D:\Lisha C#\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
