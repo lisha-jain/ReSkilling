@@ -1,0 +1,13 @@
+D:\Lisha C#\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+D:\Lisha C#\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+D:\Lisha C#\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+D:\Lisha C#\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+D:\Lisha C#\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+D:\Lisha C#\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csprojAssemblyReference.cache
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+D:\Lisha C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache

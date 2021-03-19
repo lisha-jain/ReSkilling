@@ -1,0 +1,12 @@
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\bin\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.exe
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\bin\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.deps.json
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\bin\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.runtimeconfig.json
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\bin\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.runtimeconfig.dev.json
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\bin\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.dll
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\bin\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.pdb
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\obj\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.AssemblyInfoInputs.cache
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\obj\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.AssemblyInfo.cs
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\obj\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.csproj.CoreCompileInputs.cache
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\obj\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.dll
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\obj\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.pdb
+D:\Lisha C#\ReferenceTypes_ValueTypes\ReferenceTypes_ValueTypes\obj\Debug\netcoreapp3.1\ReferenceTypes_ValueTypes.genruntimeconfig.cache

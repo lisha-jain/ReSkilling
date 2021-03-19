@@ -1,0 +1,12 @@
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\bin\Debug\netcoreapp3.1\RefTypes_ValTypes.exe
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\bin\Debug\netcoreapp3.1\RefTypes_ValTypes.deps.json
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\bin\Debug\netcoreapp3.1\RefTypes_ValTypes.runtimeconfig.json
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\bin\Debug\netcoreapp3.1\RefTypes_ValTypes.runtimeconfig.dev.json
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\bin\Debug\netcoreapp3.1\RefTypes_ValTypes.dll
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\bin\Debug\netcoreapp3.1\RefTypes_ValTypes.pdb
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\obj\Debug\netcoreapp3.1\RefTypes_ValTypes.AssemblyInfoInputs.cache
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\obj\Debug\netcoreapp3.1\RefTypes_ValTypes.AssemblyInfo.cs
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\obj\Debug\netcoreapp3.1\RefTypes_ValTypes.csproj.CoreCompileInputs.cache
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\obj\Debug\netcoreapp3.1\RefTypes_ValTypes.dll
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\obj\Debug\netcoreapp3.1\RefTypes_ValTypes.pdb
+D:\Lisha C#\RefTypes_ValTypes\RefTypes_ValTypes\obj\Debug\netcoreapp3.1\RefTypes_ValTypes.genruntimeconfig.cache
