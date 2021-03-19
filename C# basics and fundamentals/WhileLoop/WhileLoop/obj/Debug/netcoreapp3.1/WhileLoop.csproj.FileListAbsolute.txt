@@ -1,0 +1,13 @@
+D:\Lisha C#\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.exe
+D:\Lisha C#\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.deps.json
+D:\Lisha C#\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.json
+D:\Lisha C#\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.dev.json
+D:\Lisha C#\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.dll
+D:\Lisha C#\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.pdb
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csprojAssemblyReference.cache
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfoInputs.cache
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfo.cs
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csproj.CoreCompileInputs.cache
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.dll
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.pdb
+D:\Lisha C#\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.genruntimeconfig.cache

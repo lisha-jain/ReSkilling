@@ -1,0 +1,13 @@
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\bin\Debug\netcoreapp3.1\VariablesAndConstants1.exe
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\bin\Debug\netcoreapp3.1\VariablesAndConstants1.deps.json
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\bin\Debug\netcoreapp3.1\VariablesAndConstants1.runtimeconfig.json
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\bin\Debug\netcoreapp3.1\VariablesAndConstants1.runtimeconfig.dev.json
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\bin\Debug\netcoreapp3.1\VariablesAndConstants1.dll
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\bin\Debug\netcoreapp3.1\VariablesAndConstants1.pdb
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.csprojAssemblyReference.cache
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.AssemblyInfoInputs.cache
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.AssemblyInfo.cs
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.csproj.CoreCompileInputs.cache
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.dll
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.pdb
+D:\Lisha C#\VariablesAndConstants1\VariablesAndConstants1\obj\Debug\netcoreapp3.1\VariablesAndConstants1.genruntimeconfig.cache
